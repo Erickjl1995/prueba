@@ -1,0 +1,393 @@
+	 body{ 
+         height: 3700px;
+	 		background-image: url('../img/fondo.png');
+			background-repeat: no-repeat;
+			background-size: 100% 100%;
+	 	}
+	 	h4{
+	 		float: left;
+	 	}
+	 	.nombre{
+	 		margin-left: 40px;
+	 		color: white;
+	 	}
+	 	li{
+	 		color: white;
+	 		width: 50px;
+	 	}
+
+	 	.menu ul li{
+	 		    display: inline;
+             padding: 2px 7px; 
+         	}
+         .menu{
+         	margin-left: 65%;
+            padding-top: 0px;
+         }
+         #panel1{
+         	height: 500px;
+         	background-image: url('../img/img.png');
+			   background-repeat: no-repeat;
+			   background-size: 55% 100%;
+         }
+         .c_blanco{
+         	background-color: white;
+         	height: 100px;
+         	width: 100%;
+         	margin-top: 70px;
+         }
+         .text{
+         	color: white;
+         	margin-left: 53%;
+         	margin-top: 150px;
+         }
+         p.text1{
+         	color: white;
+            font-size: 35px;        
+         }
+         p.nutricion{
+         	font-size: 10px;
+         }
+         .tabla1{
+         	margin-left: 20px;
+         	margin-top: 10px;
+         	float: left;
+         }
+         .img_tabla1{
+         	width: 50px;
+         	height:40px;
+         	margin-left: 10px;
+         }
+         .text_tabla1{
+         	font-size: 10px;
+         }
+         #panel2{
+            margin-left: 15%;
+            text-align: center;
+            margin-top: 100px;
+            font-family: verdana;
+         }
+         #panel_c{
+            margin-left: 10%;
+            text-align: center;
+            margin-top: 100px;
+            font-family: verdana;
+         }
+         hr{
+            background-color: black;
+            height: 1px;
+            border: 0;
+            color: black;
+         }
+         .img_tabla2{
+            width: 50px;
+            height: 50px;
+         }
+         .tabla2{
+            margin-left: 370px;
+         }
+         #panel3{
+            margin-left: 12%;
+            margin-top: 25px;
+            height: 350px;
+            width: 200px;
+            background-color: white;
+            padding: 0;
+            background-image: url('../img/ensalada.png');
+            background-repeat: no-repeat;
+            background-size: 200px 150px;
+          }
+
+      .img_center{
+         height: 50px;
+         margin-left: 75px;
+         margin-top: 130px;
+         background-image: url('../img/circulo.png');
+         background-repeat: no-repeat;
+         background-size: 50px 50px;
+      }
+      .text_p3{
+            text-align: center;
+            }
+      .t_p3{
+         margin-top: 15px;
+         font-size: 10px;
+      }
+      .t_p5{
+         font-size: 10px;
+      }
+      #panel4{
+            margin-left: 2%;
+            margin-top: 25px;
+            height: 350px;
+            width: 200px;
+            background-color: white;
+            padding: 0;
+            background-image: url('../img/kiwi1.png');
+            background-repeat: no-repeat;
+            background-size: 200px 165px;
+        }
+       #panel5{
+            margin-left: 2%;
+            margin-top: 25px;
+            height: 350px;
+            width: 200px;
+            background-color: white;
+            padding: 0;
+            background-image: url('../img/womencoach.png');
+            background-repeat: no-repeat;
+            background-size: 200px 150px;
+        }
+       #panel6{
+            margin-left: 2%;
+            margin-top: 25px;
+            height: 350px;
+            width: 200px;
+            background-color: white;
+            padding: 0;
+            background-image: url('../img/mencoach.png');
+            background-repeat: no-repeat;
+            background-size: 200px 168px;
+        }
+        .img_down{
+            margin-left: 30px;
+            height: 60px;
+            margin-top: 45px;
+            position: relative;
+            background: url('../img/suscribir.png');
+            background-repeat: no-repeat;
+            background-size: 90% 60px;
+        }
+       .img_down3{
+            margin-left: 30px;
+            height: 60px;
+            margin-top: 40px;
+            position: relative;
+            background: url('../img/suscribir.png');
+            background-repeat: no-repeat;
+            background-size: 90% 60px;
+        }
+       .img_down5{
+            margin-left: 30px;
+            height: 60px;
+            position: relative;
+            background: url('../img/suscribir.png');
+            background-repeat: no-repeat;
+            background-size: 90% 60px;
+        }
+        .text_down{
+            color: black;
+            margin-top: 20px;
+            margin-left: 20px;
+            position: absolute;
+            color: white;
+        }
+
+      .banner{
+         height: 750px;
+         margin-top: 700px;
+         position: relative;
+         background: url('../img/layer.png');
+         background-repeat: no-repeat;
+         background-size: 100% 750px;
+      }
+
+      #panel7{
+            margin-left: 20%;
+            text-align: center;
+            margin-top: 100px;
+            font-family: verdana;
+            color: white;
+         }
+      .img_perfil{
+            width: 250px;
+            height: 250px;
+         }
+      .tabla3{
+            margin-left: 300px;
+         }
+     .tabla_c{
+            margin-left: 200px;
+         }
+      .img_tabla4{
+            width: 75px;
+            height: 75px;
+         }
+      #panel8{
+            margin-left: 20%;
+            margin-top: 25px;
+            height: 320px;
+            width: 225px;
+            padding: 0;
+            background-image: url('../img/img1.png');
+            background-repeat: no-repeat;
+            background-size: 225px 165px;
+          }
+      #panel9{
+            margin-left: 1%;
+            margin-top: 25px;
+            height: 320px;
+            width: 225px;
+            padding: 0;
+            background-image: url('../img/img2.png');
+            background-repeat: no-repeat;
+            background-size: 225px 165px;
+        }
+       #panel10{
+            margin-left: 1%;
+            margin-top: 25px;
+            height: 320px;
+            width: 225px;
+            padding: 0;
+            background-image: url('../img/img3.png');
+            background-repeat: no-repeat;
+            background-size: 225px 170px;
+        }
+       #panel11{
+            margin-left: 1%;
+            margin-top: 25px;
+            height: 320px;
+            width: 225px;
+            padding: 0;
+            background-image: url('../img/img5.png');
+            background-repeat: no-repeat;
+            background-size: 225px 168px;
+        }
+       .img_mas{
+            margin-left: 30px;
+            height: 60px;
+            width: 130px;
+            margin-top: 45px;
+            position: relative;
+            background: url('../img/suscribir.png');
+            background-repeat: no-repeat;
+            background-size: 90% 60px;
+        }
+        .img_mas10{
+            margin-left: 30px;
+            height: 60px;
+            width: 130px;
+            margin-top: 25px;
+            position: relative;
+            background: url('../img/suscribir.png');
+            background-repeat: no-repeat;
+            background-size: 90% 60px;
+        }
+        .img_mas11{
+            margin-left: 30px;
+            height: 60px;
+            width: 130px;
+            margin-top: 25px;
+            position: relative;
+            background: url('../img/suscribir.png');
+            background-repeat: no-repeat;
+            background-size: 90% 60px;
+        }
+
+      .t_p6{
+         margin-top: 180px;
+         font-size: 13px;
+      }
+      .t_p7{
+         font-size: 10px;
+      }
+      #suscribir{
+         margin-left: 20%;
+         height: 300px;
+         background-color: #FFF8DC;
+         margin-top: 150px;
+      }
+      .input_suscripcion{
+         margin-top: 210px;
+      }
+      .img_sus{
+            margin-left: 30px;
+            height: 60px;
+            width: 130px;
+            position: relative;
+            background: url('../img/suscribir.png');
+            background-repeat: no-repeat;
+            background-size: 90% 60px;
+        }
+        .text_suscrip{
+            margin-left: 20px;
+            position: absolute;
+            color: white;
+            margin-top: 20px;
+            font-size: 15px;
+            
+        }
+      .text_sus{
+         width: 500px;
+      }
+      .datos{
+         height: 648px;
+         margin-top: 900px;
+         background: url('../img/imgdown.png');
+         background-repeat: no-repeat;
+         background-size: 100% 820px;
+      }
+      .encabezado{
+         margin-left: 20%;
+         height: 200px;
+         text-align: justify;
+      }
+      .text_a{
+         color: #DAA520;
+      }
+      .datos_tabla{
+            margin-left: 18%;
+      }
+
+      .tabla_d{
+             margin-top: 10px;
+             float: left;
+         }
+      .img_tabla_d{
+           width: 70px;
+            height:60px;
+         }
+      .text_tabla_d{
+           font-size: 13px;
+         }
+       .tabla_d td{
+         height: 50px;
+       }
+       .footer{
+         width: 100%;
+         height: 350px;
+         background-color: black;
+       }
+       .aside1{
+            margin-left: 20%;
+            width: 250px;
+            font-size: 12px;
+            color: white;
+            float: left;
+       }
+       .aside2{
+            margin-left: 5%;
+            width: 250px;
+            font-size: 12px;
+            color: white;
+            float: left;
+       }
+       .twitter{
+         height: 20px;
+         width: 20px;
+       }
+       .img_footer{
+        width: 70px;
+        height: 65px;
+       }
+       .img_footer2{
+        width: 70px;
+        height: 65px;
+       }
+       .table_footer td{
+            width: 100px;
+       }
+       .table_footer tr{
+            height: 75px;
+            margin-top: 5px;
+       }
